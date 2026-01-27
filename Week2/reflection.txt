@@ -1,0 +1,6 @@
+    The Ai is obviously more styled compared to the p5.js
+Unlike the AI I was limited to simple shapes so doing curves was difficult and thus mine is more jagged and simple.
+While the Idea is the same, the outputs are very differnt, the AI used a lot more gentle lines and did hills instead of mountains.
+My Sketch is more abstract, while you can get the Idea from looking at it, it might take a bit more to recognize what its trying to show.
+The AI was more gentle with its design. compared to me, it techincally has a lot more experince with p5.js then I do and thus know what the better method would be to design something.
+
