@@ -1,0 +1,4 @@
+I gave the ai the prompt "in p5.js. Make a image of a crescent moon behind mountain peaks, there should be clouds that move from the left side of the screen to the right. when you click the mouse it should make the moon spin".
+First off I noticed how it changed the scale and reslution of the canvas to better sort the prompt. Not only did it what was prompted, but also more. my original canvas dosnt have star and i didnt prompt it for stars.
+I also noticed that to make the moon spin, it didnt spin everything like i did, only that part that covers the moon to make it look like a cresent moon.
+It also changed the mountains to be more uniformed and shaded. I didnt care to do that as I wasnt trying to make it perfect right away. Also it made the clouds semi-transparent unlike mine which is just 4 circles stacked on top of each other.
