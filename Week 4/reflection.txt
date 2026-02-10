@@ -1,0 +1,4 @@
+
+I didnt use AI in this project to make any images, That is one of the lines I will not cross with AI. In my opinion, AI can be a very handy tool to help code or teach yo.
+But using it to create AI is something that cant replace humans or even help them. It lacks the human essantce that art creates. With that I limit what I use AI for and will always opt out of using it for art
+when I can find perfectly fine images online. Using to code in p5.js is fine as this is more of a java script toy then a art creation. That being said I looked online to find images I could use to replace what aspect I wasnt proud of.
